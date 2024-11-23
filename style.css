@@ -6,6 +6,7 @@ body{
 h1{
     margin: 2rem;
     font-size: 64px;
+    color:blue;
 }
 button{
     margin-left: 2rem;
