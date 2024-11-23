@@ -1,0 +1,31 @@
+body{
+    /* text-align: center;  */
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 2rem;
+    font-size: 64px;
+}
+button{
+    margin-left: 2rem;
+    border-radius: 3px;
+}
+input{
+    margin-left: 2rem;
+    margin-right: 1rem;
+    border-radius: 5px;
+    font-size: 20px;
+}
+h3{
+    margin-left: 2rem;
+}
+ul {
+    margin-left: 2rem;
+}
+ul li{
+    margin: 4px;
+}
+ul li button{
+    align-items: end;
+}
