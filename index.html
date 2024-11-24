@@ -1,21 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&display=swap"
+        rel="stylesheet">
 </head>
+
 <body>
-    <h1>Create tasks </h1>
-    <input placeholder="Enter tasks ">
-    <button>Add</button>
-    <h3>Today's tasks :-</h3>
-    <ul>
-        <li>Code <button class="done">Done</button> </li>   
-        <li>Eat <button class="done">Done</button></li>    
-        <li>Sleep <button class="done">Done</button></li>   
-    </ul>
+    <div class="top">
+        <h1>TO DO List</h1>
+    </div>
+    
+    <div class="container">
+        <div class="heading">
+            <input placeholder="Enter tasks ">
+            <button class="done hello">Add</button>
+        </div>
+
+
+        <h3>Today's tasks :-</h3>
+        <ul>
+            <li>Code <button class="done">Done</button> </li>
+            <li>Eat <button class="done">Done</button></li>
+            <li>Sleep <button class="done">Done</button></li>
+        </ul>
+    </div>
+
     <script src="app.js"></script>
 </body>
+
 </html>
