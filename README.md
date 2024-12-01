@@ -1,6 +1,6 @@
-#To DO List
+# To DO List
 >A minimialstic to do list with option to add and finish tasks for your day.
----
+-
 
 ##Table of contents 
 1. About the project
