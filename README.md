@@ -1,5 +1,5 @@
 # To DO List
->A minimialstic to do list with option to add and finish tasks for your day.
+>A minimialstic to do list with option to add and finish tasks for your day with priority.
 --
 ## Table of contents 
 1. About the project
@@ -35,5 +35,5 @@ Contributions are always welcome!
 5.Open a pull request.
 
 ### Contact
-Bhavysarwa@gmail.com
-github.com/Bhavy1204
+bhavysarwa@gmail.com
+github.com/bhavy1204
